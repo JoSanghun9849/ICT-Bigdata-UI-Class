@@ -1,1 +1,8 @@
-# ICT-Bigdata-UI-Class
+# ICT-Bigdata-UI-Class #
+
+오늘 ICT 폴리텍 대학 빅데이터 UI 과정 첫날입니다. 간단히 자기소개를 마친 후 앞으로 6개월간 배우게 될 파이썬에 대해 간략히 소개를 해주신후 print 함수를 배워봤습니다.
+
+
+print(100+200)
+
+
