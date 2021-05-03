@@ -24,14 +24,22 @@ print('예제')
 
 
 print("   *")
+
 print("  ***")
+
 print(" *****")
+
 print("*******")
+
 print(" *****")
+
 print("  ***")
+
 print("   *")
 
+name=input('이름 :')
 
+age=input('나이 :')
 
 print('제 이름은',name,'이고 나이는',age,'입니다.')
 
@@ -56,6 +64,7 @@ print(a)
 ''' 코드 ''' : 여러 줄을 주석처리하고 싶을때 
 
 '''      
+
 print("   *")
 print("  ***")
 print(" *****")
