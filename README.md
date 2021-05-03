@@ -35,6 +35,19 @@ print("  ***")
 print("   *")
 
 
+
+print('제 이름은',name,'이고 나이는',age,'입니다.')
+
+print('Hello','world',sep='',end='\T')
+print('Welcome')
+
+
+kor=int(input('국어점수:'))
+math=int(input('수학점수:'))
+eng=int(input('영어점수:'))
+print('총점:',kor+math+eng,'이고 평균은',(kor+math+eng)/3,'입니다')
+
+
 a=100
 print(a)
 a='Hello World'
