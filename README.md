@@ -1,4 +1,4 @@
-## ICT-Bigdata-UI-Class ###
+## ICT-Bigdata-UI-Class 5월 3일(1일차) ###
 
 오늘 ICT 폴리텍 대학 빅데이터 UI 과정 첫날입니다. 
 
