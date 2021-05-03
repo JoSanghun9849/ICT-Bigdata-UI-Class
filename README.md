@@ -96,15 +96,19 @@ a=100
 b=50
 
 result=a+b
+
 print(a,'+',b,'=',result) >>>>>>>>>>>>>>>>>>출력: 100 + 50 = 150
 
 result=a-b
+
 print(a,'-',b,'=',result)>>>>>>>>>>>>>>>출력: 100 - 50 = 100
 
 result=a*b
+
 print(a,'*',b,'=',result)>>>>>>>>>>>>>>>출력: 100 * 50 = 5000
 
 result=a/b
+
 print(a,'/',b,'=',result)>>>>>>>>>>>>>>>출력: 100 / 50 = 2
 
 
